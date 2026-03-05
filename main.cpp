@@ -384,8 +384,3 @@ int main() {
                 cout << "Goodbye!\n";
                 return 0;
 
-            default:
-                cout << "Invalid choice. Please try again.\n";
-        }
-    }
-}
